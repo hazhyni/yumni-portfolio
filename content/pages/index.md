@@ -16,9 +16,7 @@ sections:
     title: >-
      I BUILD IDEAS, ANALYZE DATA, AND TURN THEM INTO IMPACT.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      From crafting apps to exploring AI, from research to real-world projects—I blend tech, business, and creativity to make solutions that matter. Scroll down and you’ll see the journey, the work, and the skills I’ve been sharpening to make the future a little smarter.
     styles:
       self:
         height: auto
@@ -53,6 +51,8 @@ sections:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/project-four.md
+      - content/pages/projects/project-five.md
     styles:
       self:
         height: auto
